@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: TomahoChat-Setup-1.0.0.exe
+    sha512: 1JqXg05tK7QvWQs8bTPuhHBP23apSatgKB6ucNmPGeNgK8vjb9LfLKndi4X6Z8sznGB73kjyP1/1ezdMU/2ZgA==
+    size: 122248055
+path: TomahoChat-Setup-1.0.0.exe
+sha512: 1JqXg05tK7QvWQs8bTPuhHBP23apSatgKB6ucNmPGeNgK8vjb9LfLKndi4X6Z8sznGB73kjyP1/1ezdMU/2ZgA==
+releaseDate: '2021-07-25T08:44:43.590Z'
